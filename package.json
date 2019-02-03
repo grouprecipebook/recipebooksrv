@@ -1,0 +1,10 @@
+{
+  "name": "recipebookFE",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Tom Tarpey <tomtarpeydev@gmail.com>",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "license": "MIT"
+}
